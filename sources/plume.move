@@ -1,0 +1,3 @@
+module swan::plume {
+
+}
